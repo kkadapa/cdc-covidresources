@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cdc-covidresources/static/css/main.c819960e.chunk.css",
+    "main.js": "/cdc-covidresources/static/js/main.2f105c10.chunk.js",
+    "main.js.map": "/cdc-covidresources/static/js/main.2f105c10.chunk.js.map",
+    "runtime-main.js": "/cdc-covidresources/static/js/runtime-main.7b36ee28.js",
+    "runtime-main.js.map": "/cdc-covidresources/static/js/runtime-main.7b36ee28.js.map",
+    "static/js/2.ca3d5fda.chunk.js": "/cdc-covidresources/static/js/2.ca3d5fda.chunk.js",
+    "static/js/2.ca3d5fda.chunk.js.map": "/cdc-covidresources/static/js/2.ca3d5fda.chunk.js.map",
+    "static/js/3.0c8e48e6.chunk.js": "/cdc-covidresources/static/js/3.0c8e48e6.chunk.js",
+    "static/js/3.0c8e48e6.chunk.js.map": "/cdc-covidresources/static/js/3.0c8e48e6.chunk.js.map",
+    "index.html": "/cdc-covidresources/index.html",
+    "static/css/main.c819960e.chunk.css.map": "/cdc-covidresources/static/css/main.c819960e.chunk.css.map",
+    "static/js/2.ca3d5fda.chunk.js.LICENSE.txt": "/cdc-covidresources/static/js/2.ca3d5fda.chunk.js.LICENSE.txt",
+    "static/media/logotype.f07f991e.svg": "/cdc-covidresources/static/media/logotype.f07f991e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b36ee28.js",
+    "static/js/2.ca3d5fda.chunk.js",
+    "static/css/main.c819960e.chunk.css",
+    "static/js/main.2f105c10.chunk.js"
+  ]
+}
